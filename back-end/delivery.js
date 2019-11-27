@@ -1,2 +1,2 @@
 //Deliver a hot pizza!
-function()
+function(now);
