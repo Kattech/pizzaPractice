@@ -1,0 +1,50 @@
+MEDA 12/3/19
+
+https://hosting.review/web-hosting/free-cheap-node-js-hosting/
+
+** Bonus - RegEx for condition of any number of spaces on user login
+** Also for sanitization
+
+Red Hat
+- 2GB of Node Project storage for free
+- But... must sleep 18hrs every 72hrs
+
+RamNode
+- best VPS (virtual private server)
+- 10$/month for 2GB with no downtime
+
+Can get older versions of a package... 
+Package.JSON : just change version for corresponding package
+- then install it.
+
+
+Anytime a project needs a package, install it locally
+
+mask.js
+- cool jQuery plugin for auto-correcting telephone, etc fields
+
+////////
+HTML Generator
+
+minified jQuery CDN pasted into index.html head
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+
+Starting with login feature : index.html
+
+--- To get the 404 error off the screen when loading without a Favorites icon
+w3.org howto-favicon
+https://www.w3.org/2005/10/howto-favicon
+
+how to convert password into md5 in jquery
+https://stackoverflow.com/questions/18585159/how-to-convert-password-into-md5-in-jquery
+https://cdnjs.com/libraries/crypto-js
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/md5.min.js" integrity="sha256-pMgPw2sArXEcjAzvhVgWZ4iS4Jm3NKrLG0mFWdrUwCE=" crossorigin="anonymous"></script>
+
+https://stackoverflow.com/questions/1655769/fastest-md5-implementation-in-javascript
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/core.min.js" integrity="sha256-hV6Ff1ZbnLObO8BWHPZs1oA3aPZkX4bnnEKO4nX1sm0=" crossorigin="anonymous"></script>
+
+
+
+bitbucket on .gitignore
+https://www.atlassian.com/git/tutorials/saving-changes/gitignore
